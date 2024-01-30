@@ -1,1 +1,1 @@
-# doc-serenity-junit4-basics
+# doc-serenity-basics
